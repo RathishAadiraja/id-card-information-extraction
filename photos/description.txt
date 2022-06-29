@@ -1,0 +1,1 @@
+creating new folder for photos of ID cards with bounding boxes detecting ID card in the whole image
